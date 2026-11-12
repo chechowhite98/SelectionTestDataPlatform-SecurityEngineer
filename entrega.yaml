@@ -11,9 +11,9 @@
 # ===========================================================================
 
 candidato:
-  nombre_completo: "TODO"
-  email: "TODO"
-  horas_invertidas: 0          # se honesto, no afecta la nota
+  nombre_completo: "Sergio Alberto Blanco Coba"
+  email: "checho.white98@gmail.com"
+  horas_invertidas: 16          # se honesto, no afecta la nota
 
 # Las credenciales de abajo son EFIMERAS y SOLO para evaluacion local.
 # Deben ser las mismas que crea tu 'make up'.
